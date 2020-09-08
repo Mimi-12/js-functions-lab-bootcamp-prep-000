@@ -20,5 +20,5 @@ happyCustomHolidayTo (`happy+ ${christmas + dave}!`);
 
 function holidayCountdown(holidayName, days) {
 console.log(`${days}, ${holidayName}`);
-return `Its's  ${days} + until  ${holidayName}!`
+return `Its's  ${days}  until  ${holidayName}!`
 }
