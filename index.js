@@ -22,6 +22,6 @@ var days = 7
 var hollyDayName = "christmas"
 function holidayCountdown(days,holidayName) {
 console.log(`${days}, ${holidayName}`);
-return `it's ${days}, ${holidayName}!`
+return `It's ${days}, ${holidayName}!`
 }
-holidayCountdown(`${7}, ${holidayName}`);
+holidayCountdown(`${7}, ${holidayName}!`);
