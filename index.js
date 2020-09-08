@@ -20,7 +20,7 @@ happyCustomHolidayTo (`happy+ ${hollyDayName + dave}!`);
 
 var days = 7
 var hollyDayName = "christmas"
-function holidayCountdown(name,days){
+function holidayCountdown(days,){
 cosole.log(`it's, ${days}, ${days}`);
 }
 holidayCountdown(7,"christmas");
