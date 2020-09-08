@@ -13,10 +13,10 @@ happyHolidaysTo (`happyHolidaysTo, ${dave}!`);
 var name= "dave"
 var hollyDayName = "christmas"
 function happyCustomHolidayTo(name, hollyDayName) {
-console.log(`happyHolidays, ${name}!`);
-return `Happy holidays, ${name}!`
+console.log(`happy+ ${hollyDayName +" " + name}`);
+return `Happy + ${christmas +" " + dave}`
 }
-happyCustomHolidayTo (`happy+ ${dave+hollyDayName}`);
+happyCustomHolidayTo (`happy+ ${hollyDayName + dave}`);
 
 var days = 7
 var hollyDayName = "christmas"
