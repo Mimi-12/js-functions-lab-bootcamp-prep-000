@@ -22,4 +22,3 @@ function holidayCountdown(holidayName, days) {
 console.log(`${days}, ${holidayName}`);
 return `${days}, ${holidayName}!`
 }
-
