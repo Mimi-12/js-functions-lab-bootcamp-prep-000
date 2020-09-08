@@ -14,9 +14,9 @@ var name= "dave"
 var hollyDayName = "christmas"
 function happyCustomHolidayTo(hollyDayName, name) {
 console.log(`happy, ${hollyDayName}, ${name}`);
-return `Happy, ${christmas}, ${dave}`
+return `Happy, ${Christmas}, ${dave}!`
 }
-happyCustomHolidayTo (`happy+ ${hollyDayName + dave}`);
+happyCustomHolidayTo (`happy+ ${hollyDayName + dave}!`);
 
 var days = 7
 var hollyDayName = "christmas"
