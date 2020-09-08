@@ -1,7 +1,7 @@
 function happyHolidays() {
-console.log("Happy,holidays!");
+console.log("Happy,holidays!")
 }
-happyHolidays();
+happyHolidays()
 
 var name = "dave"
 function happyHolidaysTo(){
