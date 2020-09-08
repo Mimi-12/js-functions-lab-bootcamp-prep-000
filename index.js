@@ -1,8 +1,6 @@
-function happyHolidays() {
-console.log("Happy,holidays!")
-}
-happyHolidays()
-
+def happyHolidays()
+   puts "Happy,holidays!"
+end
 var name = "dave"
 function happyHolidaysTo(){
 console.log(`happyHolidaysTo, ${name},${hollyDayName}!`);
