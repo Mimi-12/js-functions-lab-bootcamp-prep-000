@@ -5,8 +5,8 @@ happyHolidays()
 
 var name = "dave"
 function happyHolidaysTo(name){
-console.log(`happyHolidaysTo, ${name},${hollyDayName}!`);
-return `happyHolidaysTo, ${name},${hollyDayName}!`
+console.log(`happyHolidays, ${name}!`);
+return `happyHolidays, ${name}!`
 }
 happyHolidaysTo (`happyHolidaysTo, ${dave},${hollyDayName}!`);
 
