@@ -1,4 +1,4 @@
 def happyHolidays()
-   puts "Happy,holidays!"
+  "Happy,holidays!"
 end
 happyHolidays()
