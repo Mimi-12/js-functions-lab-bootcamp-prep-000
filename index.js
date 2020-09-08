@@ -14,13 +14,14 @@ var name= "dave"
 var hollyDayName = "christmas"
 function happyCustomHolidayTo(hollyDayName, name) {
 console.log(`happy, ${hollyDayName}, ${name}`);
-return `Happy, ${Christmas}, ${dave}!`
+return `Happy, ${hollyDayName}, ${name}!`
 }
-happyCustomHolidayTo (`happy+ ${hollyDayName + dave}!`);
+happyCustomHolidayTo (`happy+ ${christmas + dave}!`);
 
 var days = 7
 var hollyDayName = "christmas"
-function holidayCountdown(days,holidayName){
+function holidayCountdown(days,holidayName) {
 cosole.log(`it's, ${days}, ${holidayName}!`);
+return `it's, ${days}, ${holidayName}!`
 }
 holidayCountdown(7,"christmas");
