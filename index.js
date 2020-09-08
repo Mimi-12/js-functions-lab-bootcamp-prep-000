@@ -1,6 +1,6 @@
-def happyHolidays()
-   puts "Happy,holidays!"
-end
+function happyHolidays() {
+   return "Happy,holidays!"
+ }
 happyHolidays()
 
 var name = "dave"
