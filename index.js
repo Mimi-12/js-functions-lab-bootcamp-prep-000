@@ -24,4 +24,4 @@ function holidayCountdown(days,holidayName) {
 console.log(`${days}, ${holidayName}`);
 return `It's ${holidayName}, ${days}!`
 }
-holidayCountdown(`${7} + until + ${holidayName}!`);
+holidayCountdown(`It's ${7} + until + ${holidayName}!`);
