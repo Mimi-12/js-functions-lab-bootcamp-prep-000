@@ -18,8 +18,6 @@ return `Happy ${hollyDayName}, ${name}!`
 }
 happyCustomHolidayTo (`happy+ ${christmas + dave}!`);
 
-var days = 7
-var hollyDayName = "christmas"
 function holidayCountdown(holidayName, days) {
 console.log(`${days}, ${holidayName}`);
 return `${days}, ${holidayName}!`
