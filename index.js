@@ -1,6 +1,8 @@
 def happyHolidays()
    puts "Happy,holidays!"
 end
+happyHolidays()
+
 var name = "dave"
 function happyHolidaysTo(){
 console.log(`happyHolidaysTo, ${name},${hollyDayName}!`);
