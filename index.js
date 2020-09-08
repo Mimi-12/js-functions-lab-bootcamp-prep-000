@@ -6,9 +6,9 @@ happyHolidays()
 var name = "dave"
 function happyHolidaysTo(name){
 console.log(`happyHolidays, ${name}!`);
-return `happyHolidays, ${name}!`
+return `Happy holidays, ${name}!`
 }
-happyHolidaysTo (`happyHolidaysTo, ${dave},${hollyDayName}!`);
+happyHolidaysTo (`happyHolidaysTo, ${dave}!`);
 
 var name= "dave"
 var hollyDayName = "christmas"
